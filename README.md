@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vanooze
+- 👀 I’m interested in anime and online games such as valorant and league of legends
+- 🌱 I’m currently learning css and javascript
