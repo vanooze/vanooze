@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @vanooze
-- 👀 I’m interested in anime and online games such as valorant and league of legends
-- 🌱 I’m currently learning css and javascript
+- 👋 Hi, I’m Ivan Balo, an Information Tecnology Student at Pamantasan ng Lungsod ng Maynila
+- 🌱 I’m currently learning game development, DevOps and want to expand my knowledge with Web Development
